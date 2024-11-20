@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "quantity": 10000000,
+            "mosaicId": {
+                "namespaceId": "nem",
+                "name": "xem"
+            }
+        },
+        {
+            "quantity": 2000000,
+            "mosaicId": {
+                "namespaceId": "rewards4earth",
+                "name": "erth"
+            }
+        }
+    ]
+}

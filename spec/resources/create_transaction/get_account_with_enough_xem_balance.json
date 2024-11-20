@@ -1,0 +1,18 @@
+{
+   "meta": {
+       "cosignatories": [],
+       "cosignatoryOf": [],
+       "status": "LOCKED",
+       "remoteStatus": "INACTIVE"
+   },
+   "account": {
+       "address": "ND72SWJGHA7L7ECKIGWE5GLPSN5PYR6S3GZZOQBC",
+       "harvestedBlocks": 0,
+       "balance": 1.05,
+       "importance": 0.0,
+       "vestedBalance": 0,
+       "publicKey": "c2e19751291d01140e62ece9ee3923120766c6302e1099b04014fe1009bc89d3",
+       "label": null,
+       "multisigInfo": {}
+   }
+}

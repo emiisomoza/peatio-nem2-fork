@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "quantity": 0,
+            "mosaicId": {
+                "namespaceId": "nem",
+                "name": "xem"
+            }
+        }
+    ]
+}

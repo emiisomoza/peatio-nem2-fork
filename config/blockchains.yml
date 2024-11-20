@@ -1,0 +1,10 @@
+- key:               nem-testnet
+  name:              Nem Testnet
+  client:            nem                                  # API client name.
+  server:            http://127.0.0.1:7890                # Public Nem node endpoint.
+  height:            3487157                              # Initial block number from which sync will be started.
+  min_confirmations: 6                                    # Minimal confirmations needed for withdraw and deposit confirmation.
+  explorer:
+    address:         https://explorer.nemtool.com/#/s_account?account={address} 
+    transaction:     https://explorer.nemtool.com/#/s_tx?hash={txid}
+  status:            active

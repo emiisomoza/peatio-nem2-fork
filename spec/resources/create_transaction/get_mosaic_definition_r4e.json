@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "meta": {
+                "id": 3301
+            },
+            "mosaic": {
+                "creator": "fffbda2fd5e1079758ca4763f39683cb1fcf2634192fc6882ced55d6447facc6",
+                "description": "Rewards4Earth Loyalty Point",
+                "id": {
+                    "namespaceId": "rewards4earth",
+                    "name": "erth"
+                },
+                "properties": [
+                    {
+                        "name": "divisibility",
+                        "value": "6"
+                    },
+                    {
+                        "name": "initialSupply",
+                        "value": "100000000"
+                    },
+                    {
+                        "name": "supplyMutable",
+                        "value": "true"
+                    },
+                    {
+                        "name": "transferable",
+                        "value": "true"
+                    }
+                ],
+                "levy": {}
+            }
+        }
+    ]
+}

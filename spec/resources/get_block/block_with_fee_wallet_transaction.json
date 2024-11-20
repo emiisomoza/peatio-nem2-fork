@@ -1,0 +1,49 @@
+{
+    "timeStamp": 228978059,
+    "signature": "84e183615d79ca1fbc66d086542989c01329fa61a0e5b8af9f581c26c7af4412a6b0747f2923edafe8e9b584d050621c2dcfea2fa263fc1a764b8725cfc3f60b",
+    "prevBlockHash": {
+        "data": "5e9fde25849b8ed20d716af96bd6650c11adf4f1c0408d76e75f5f042bc73633"
+    },
+    "type": 1,
+    "transactions": [
+        {
+            "timeStamp": 228978031,
+            "amount": 2017712174000,
+            "signature": "7bcc718a3d42fb81b691fa48d2c24d404bd4c16024b1e5c96777674f74152436a3aff2331898ef0e2653e7f3e1337bff8ca0d19c6d63c62cc1ff605778bfbd09",
+            "fee": 1300000,
+            "recipient": "NCKQ4BSRF5VPCR3TQUK7DHO2G24H4G45PWOAR5NB",
+            "type": 257,
+            "deadline": 229021231,
+            "message": {
+                "payload": "30",
+                "type": 1
+            },
+            "version": 1744830465,
+            "signer": "8274c7c04df45f71b2e243db238f52670a46d2caf539ea6375fda68f75bd07f5"
+        },
+        {
+            "timeStamp": 228977997,
+            "amount": 1000000,
+            "signature": "04d362ece6f6c57215c1086d17074924a4e099a4865a80902c1d450b55801a4e093c3ab3f5c00b3879a3bca5e5f396633006efc15851d8e41303c12d3477b00b",
+            "fee": 50000,
+            "recipient": "NCKQ4BSRF5VPCR3TQUK7DHO2G24H4G45PWOAR5NB",
+            "mosaics": [
+                {
+                    "quantity": 100000,
+                    "mosaicId": {
+                        "namespaceId": "rewards4earth",
+                        "name": "erth"
+                    }
+                }
+            ],
+            "type": 257,
+            "deadline": 229064397,
+            "message": {},
+            "version": 1744830466,
+            "signer": "3907d5e046cc6a43bf2a4d65189e1c386ba88f57266dc3430b4f23341d991d99"
+        }
+    ],
+    "version": 1744830465,
+    "signer": "9ae850e6ce49bf23a102812adca890015152d509f303ce49a3918faed3e7fa8d",
+    "height": 3783753
+}

@@ -1,0 +1,9 @@
+{
+    "message": "SUCCESS",
+    "transactionHash": {
+        "data": "c1786437336da077cd572a27710c40c378610e8d33880bcb7bdb0a42e3d35586"
+    },
+    "innerTransactionHash": {
+        "data": "1234abcd"
+    }    
+}
